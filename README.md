@@ -1,3 +1,6 @@
+#sample image(1)
 ![](images/image1.png "explain1")
+#sample image(2)
 ![](images/image2.png "explain2")
+#sample image(3)
 ![](images/image3.png "explain3")

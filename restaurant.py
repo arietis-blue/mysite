@@ -214,5 +214,3 @@ if __name__ == '__main__':
     api = Nres()
     window = webview.create_window('周辺300m以内の飲食店からおすすめ10個を選出', html=html, js_api=api, height=400)
     webview.start()
-
-    # +"<br>"+"<a href="+data[loc]['url']+"target='_self'rel='noopener noreferrer'>ホットペッパーリンク</a>"
